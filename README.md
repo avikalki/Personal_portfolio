@@ -1,4 +1,3 @@
-# Personal_portfolio
 # Personal Portfolio Website
 
 This repository contains the source code for my personal portfolio website. It is a clean, responsive, and modern website designed to showcase my skills, projects, and professional background as a web developer and tech enthusiast.
@@ -6,7 +5,7 @@ This repository contains the source code for my personal portfolio website. It i
 ## Table of Contents
 
 - [Live Demo](#live-demo)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshots)
 - [About This Project](#about-this-project)
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
@@ -21,11 +20,15 @@ You can view the live version of my portfolio here: **[your-portfolio-url.com](h
 
 *(Replace the placeholder URL with your actual deployed link.)*
 
-## Screenshot
+## Screenshots
 
-![Portfolio Screenshot](./screenshot.png)
+Here is a preview of the portfolio website:
 
-*(It is highly recommended to add a screenshot of your website and name it `screenshot.png` in the root directory.)*
+**Home Page**
+![Portfolio Home Page](Screenshot%20(158).png)
+
+**About Page**
+![Portfolio About Page](Screenshot%20(159).png)
 
 ## About This Project
 
@@ -62,24 +65,25 @@ You only need a web browser to view the website.
 
 1.  **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/avikalki/Personal_portfolio.git
     ```
 
 2.  **Navigate to the project directory**:
     ```sh
-    cd your-repository-name
+    cd Personal_portfolio
     ```
 
-3.  **Open `index4.html` in your browser**:
-    You can open the file directly in your browser to see the portfolio. For a better development experience, consider using a live server extension in a code editor like VS Code.
+3.  **Open `index4.html` in your browser**.
 
 ## File Structure
 
 The repository is organized with a clear and concise file structure:
-your-repository-name/
-├── index4.html # The main landing page (Home)
-├── about.html # The detailed about/resume page
-└── style4.css # The single stylesheet for the entire site
+Personal_portfolio/
+├── index4.html
+├── about.html
+├── style4.css
+├── Screenshot (158).png
+└── Screenshot (159).png
 
 ## Contact
 
